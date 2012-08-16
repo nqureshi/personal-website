@@ -84,18 +84,18 @@ p {
 }
 
 a:link {
-text-decoration: none;
-color: #104E8B;
+	text-decoration: none;
+	color: #104E8B;
 }
 
 a:visited {
-text-decoration: none;
-color: #104E8B;
+	text-decoration: none;
+	color: #104E8B;
 }
 
 a:hover {
-color: #000;
-text-decoration: none;
-border-bottom: 1px dotted #ccc;
+	color: #000;
+	text-decoration: none;
+	border-bottom: 1px dotted #ccc;
 }
 
