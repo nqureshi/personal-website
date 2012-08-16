@@ -65,6 +65,7 @@ h1 {
 	font-size: 1.6em;
 	color: #000;
 	margin-bottom: 0.5em;
+	font-weight:bold;
 }
 
 body {
@@ -72,6 +73,7 @@ body {
 }
 
 p {
+	font-weight:lighter;
 	margin-bottom:0.5em;
 }
 
