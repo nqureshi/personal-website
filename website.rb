@@ -1,15 +1,19 @@
 require 'rubygems'
-require 'sinatra'
+require 'sinatra/base'
 require 'haml'
 
-get '/' do
-  haml :index
-end
+class Website < Sinatra::Base
 
-get '/blog' do
-  redirect 'http://blog.nabeelqu.com'
-end
+  get '/' do
+    haml :index
+  end
 
-get '/quotes' do
-  haml :quotes
+  get '/blog' do
+    redirect 'http://blog.nabeelqu.com'
+  end
+
+  get '/quotes' do
+    haml :quotes
+  end
+
 end
