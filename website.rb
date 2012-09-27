@@ -15,9 +15,5 @@ class Website < Sinatra::Base
   get '/quotes' do
     haml :quotes
   end
-  
-  get '/writings' do
-    haml :writings
-  end
 
 end
