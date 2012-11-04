@@ -8,18 +8,10 @@ class Website < Sinatra::Base
   
   POEMS_URL = "http://rpo.library.utoronto.ca/poems"
 
-  get '/' do
-    haml :index
-  end
-
-  get '/blog' do
-    redirect 'http://blog.nabeelqu.com'
-  end
-
-  get '/quotes' do
-    haml :quotes
-  end
-
+  get('/') { haml :index }
+  get('/blog') { redirect 'http://blog.nabeelqu.com' }
+  get('/quotes') { haml :quotes }
+  
   get '/poem' do
     @poem = Nokogiri::HTML(open(get_random_poem))
     @poem_title = @poem.css("#page-title")
