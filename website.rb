@@ -8,9 +8,9 @@ class Website < Sinatra::Base
   
   POEMS_URL = "http://rpo.library.utoronto.ca/poems"
 
-  get('/') { haml :index }
-  get('/blog') { redirect 'http://blog.nabeelqu.com' }
-  get('/quotes') { haml :quotes }
+  get('/')        { haml :index }
+  get('/blog')    { redirect 'http://blog.nabeelqu.com' }
+  get('/quotes')  { haml :quotes }
   
   get '/poem' do
     @poem = Nokogiri::HTML(open(get_random_poem))
@@ -21,7 +21,7 @@ class Website < Sinatra::Base
   end
   
   helpers do
-    def get_random_poem # Gets a random poem from the RPO library of poems
+    def get_random_poem # Return URL of random poem
       poem_url = Nokogiri::HTML(open(POEMS_URL)).css("#block-system-main a")[rand(1..4785)]["href"]
       POEMS_URL.gsub("/poems", "") + poem_url
     end
