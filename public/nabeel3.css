@@ -24,9 +24,9 @@ body {
 	color: black;
 	}
 	
-ul, li {
-list-style: none;
-}
+/*ul, li {
+	list-style:none;
+}*/
 
 caption, th, td {
 	text-align: left;
@@ -55,31 +55,48 @@ blockquote, q {
 {
 	padding-top: 1.5em;
 	margin: auto;
-	max-width: 500px;
+	max-width: 600px;
 	align: centre;
 }
 
 h1 {
-	font-family: Book Antiqua, Palatino Linotype, Palatino, Serif;
 	font-size: 36px;
 	margin-bottom: 0.5em;
 	font-weight:bold;
 }
 
 h2 {
-	font-family: Book Antiqua, Palatino Linotype, Palatino, Serif;
-	font-size: 28px;
+	font-size: 30px;
 	margin-bottom: 0.8em;
 	margin-top:1em;
+	line-height:1.25em;
 }
 
 body {
 	font-family: Book Antiqua, Palatino Linotype, Palatino, Serif;
 }
 
+blockquote { 
+	border-left:2px solid #888;
+	color:#888;
+	margin:0 1em 1.5em;
+	padding:0 1em
+}
+
 p {
+	font-size:20px;
+	margin-bottom:0.7em;
+	text-align:justify;
+	line-height:1.5em;
+}
+
+ul,ol {
+	margin-left:1.5em;
+}
+
+li {
 	font-weight:lighter;
-	font-size:22px;
+	font-size:20px;
 	margin-bottom:0.8em;
 	text-align:justify;
 }
@@ -100,7 +117,13 @@ a:hover {
 	border-bottom: 1px dotted #ccc;
 }
 
-img {
+img.home {
 	float: right;
 	margin: 0 0 40px 40px;
+}
+
+.posted { 
+	text-align: right; 
+	color: #666; 
+	font-style: italic; 
 }

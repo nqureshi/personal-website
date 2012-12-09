@@ -16,9 +16,9 @@ module Nabeel
     CONTENT_FILE  = File.join(APP_DIR, 'posts.yaml')
 
     get('/')        { haml :index }
-    get('/quotes')  { haml :quotes }
+    get('/quotes/?')  { haml :quotes }
     
-    get '/blog' do
+    get '/blog/?' do
       erb :blog, :layout => :bloglayout
     end
   
@@ -27,7 +27,7 @@ module Nabeel
       erb :post, :layout => :bloglayout
     end
   
-    get '/poem' do
+    get '/poem/?' do
       get_poem_data
       haml :poem, :layout => :poemlayout
     end

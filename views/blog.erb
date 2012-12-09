@@ -1,5 +1,7 @@
-<h2>Archives</h2>
+<h2>Writings</h2>
 
+<ul>
 <% posts.each do |p| %>
-	<a href="/blog/<%= p.slug %>"><%= p.title %></a> - <%= p.date %><br>
+	<li><a href="/blog/<%= p.slug %>"><%= p.title %></a></li>
 <% end %>
+</ul>
