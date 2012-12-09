@@ -1,0 +1,5 @@
+<h2>Archives</h2>
+
+<% posts.each do |p| %>
+	<a href="/blog/<%= p.slug %>"><%= p.title %></a> - <%= p.date %><br>
+<% end %>

@@ -1,0 +1,10 @@
+---
+- title: sample-post
+  slug: sample-post
+  content: ! 'Hello
+
+    ------
+
+
+    This is another sample post.'
+  date: December 09, 2012
