@@ -126,3 +126,8 @@ img.home {
 	color: #666; 
 	font-style: italic; 
 }
+
+.nav-link {
+	text-align: right; 
+	font-style: italic;
+}
