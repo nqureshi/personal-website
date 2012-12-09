@@ -1,4 +1,4 @@
-<img src="/herd.jpg">
+<!--<img src="/herd.jpg">-->
 
 > “I suspect that when the history of the 21st century is written circa 2100, he [Girard] will be seen as one of the great intellectuals” - Peter Thiel
 
