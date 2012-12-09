@@ -6,13 +6,11 @@ When Blake Masters was posting his great notes on [Peter Thiel's lectures at Sta
 
 Girard's an original thinker. I'm not fully persuaded by his worldview: it explains a lot, but not everything. I've summarized his views here.
 
-1\. <b>Mimesis determines people's desires, preferences & personalities/worldviews</b>: In [this video](http://www.youtube.com/watch?feature=player_embedded&v=esk7W9Jowtc), Thiel notes that people can be "disturbingly herdlike". Both this assertion, & Thiel's general contrarianism, chime with Girard's philosophy.
-
-In Girard's view, people have <i>appetites</i>, which are your basic evolutionary needs: e.g. hunger; and <i>desires</i>, which are all other wants, e.g. the desire for a diamond ring. <b>Girard's belief is that people form desires based on what others around them want</b>. 
+1\. <b>Mimesis determines what you want</b>: In Girard's view, people have <i>appetites</i>, which are your basic evolutionary needs: e.g. hunger; and <i>desires</i>, which are all other wants, e.g. the desire for a diamond ring. <b>Girard's belief is that people form desires based on what others around them want</b>. 
 
 This is known as the 'mimetic mechanism'. People take their cues from the people around them. They use other people as 'models', and (subconsciously) want what other people want, while rationalizing the whole time. In the diamond ring example, companies like [DeBeers](http://en.wikipedia.org/wiki/De_Beers) create a want artificially, and it catches on like a virus. People want diamond rings because other people want them, but they rationalise it by saying "<i>it shows that my partner loves me</i>".
 
-How has this influenced Thiel?
+How has this influenced Thiel? In [this video](http://www.youtube.com/watch?feature=player_embedded&v=esk7W9Jowtc), Thiel notes that people can be "disturbingly herdlike". Both this assertion, & Thiel's general contrarianism, chime with Girard's philosophy. More generally:
 
 * <b>Stock market</b>: The average agent is <b>not</b> a rational utility-maximizer who coldly assess the fundamentals before making investments. Rather, the stock market is fundamentally herd driven. Therefore, there are opportunities to be exploited: people form blind spots because they are collectively taking their cues from each other. One example here is Thiel [calling the $8 billion housing bubble](http://bigthink.com/ideas/17721) before most other people, making his fund a lot of money as a result. 
 * <b>Education</b>: Most people still believe that getting an education guarantees safety. Thiel believes that the decision to invest so much in higher education is irrational. If education is overvalued, there are opportunities to be exploited. Hence the ['20 under 20'](http://www.thielfellowship.org/) scheme. 
