@@ -18,7 +18,7 @@ This is probably the book I'd recommend the most from this list to the average p
 
 2\. '**[The Inner Game of Tennis](http://www.amazon.co.uk/Inner-Game-Tennis-Timothy-Gallwey/dp/0330295136/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209411&amp;sr=1-1)**' by Timothy Gallwey. This is supposed to be a book about getting better at tennis, but only one chapter is devoted to the actual mechanics of tennis. Instead, it's a great instruction manual on emotion, stress, Zen Buddhism, and achievement. Frankly, it blew my mind.
 
-You can get a taste it it in this brilliant video with Alan Kay, but it's only a fraction of the kind of thing you'll find in this book: https://www.youtube.com/watch?v=50L44hEtVos
+You can get a taste it it in [this](https://www.youtube.com/watch?v=50L44hEtVos) brilliant video with Alan Kay, but it's only a fraction of the kind of thing you'll find in this book.
 
 3\. '**[The Philosophical Investigations](http://www.amazon.co.uk/Philosophical-Investigations-Ludwig-Wittgenstein/dp/1405159294/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209483&amp;sr=1-1)**' by Ludwig Wittgenstein. This is probably the book with the most 'classic' status of the bunch. I find that it's thoroughly undervalued by philosophers, though, who see it as an arcane and eccentric work of little value. And ordinary people don't bother reading it, probably for good reason: it's a difficult thing to read. However, spending the time to understand it is hugely rewarding.
 
