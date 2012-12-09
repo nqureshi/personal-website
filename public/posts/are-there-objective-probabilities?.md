@@ -33,6 +33,6 @@ To sum up: probabilities are (a) true or false, (b) regardless of what I believe
 
 <b>Based on these facts, it is wrong to conclude either that probability is subjective <i>or</i> that probability is objective</b>. For example, traits a and b are features of things we call objective, but traits c and d are features of things that we call subjective.
 
-We know all the facts.Telling us that it is subjective or objective gives us <i>no additional information</i>, nor does it lead to any differing expectations about reality. (Like the old question: if a tree falls in the woods, does it make a sound? It depends on whether your definition of sound includes 'someone hearing it', or whether it's just 'acoustic vibrations'. That's it. There's no factual disagreement here, it's all at the level of <i>language</i> rather than <i>the world</i>.)
+We know all the facts. Telling us that it is subjective or objective gives us <i>no additional information</i>, nor does it lead to any differing expectations about reality. (Like the old question: if a tree falls in the woods, does it make a sound? It depends on whether your definition of sound includes 'someone hearing it', or whether it's just 'acoustic vibrations'. That's it. There's no factual disagreement here, it's all at the level of <i>language</i> rather than <i>the world</i>.)
 
 Probability has conceptual features from both classes, so some composite label would be best, if a label were necessary. As it is, <b>neither 'subjective' nor 'objective' will do</b>.
