@@ -1,2 +1,3 @@
+::APP_DIR = File.expand_path(File.dirname(__FILE__))
 require './website.rb'
-run Website
+run Nabeel::Website
