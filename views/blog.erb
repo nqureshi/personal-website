@@ -1,7 +1,7 @@
 <h2>Writings</h2>
 
 <ul>
-<% posts.each do |p| %>
+<% posts.sort_by { |p| p.date }.reverse.each do |p| %>
 	<li><a href="/blog/<%= p.slug %>"><%= p.title %></a></li>
 <% end %>
 </ul>
