@@ -50,4 +50,4 @@ Some of them eventually figure things out and become happier people. But I know 
 
 We need to find a better way to teach children, one that doesn't kill their innate sense of curiosity and play.   
 
-*Update: some good discussion on HN [here](http://news.ycombinator.com/item?id=5196666).*
+__Update: some good discussion on HN [here](http://news.ycombinator.com/item?id=5196666).__
