@@ -4,6 +4,7 @@ require 'haml'
 require 'nokogiri'
 require 'open-uri'
 require 'kramdown'
+require 'yaml'
 require File.dirname(__FILE__) + '/lib/blog/' + 'post'
 
 module Nabeel

@@ -75,11 +75,21 @@ body {
 	font-family: Book Antiqua, Palatino Linotype, Palatino, Serif;
 }
 
+/* old blockquote 
+
 blockquote { 
 	border-left:2px solid #888;
 	color:#888;
 	margin:0 1em 1.5em;
 	padding:0 1em
+} */
+
+blockquote {
+  padding: 0 0 0 2.2em;
+  margin: 2em 0;
+  font-style: italic;
+  background: url('https://s3-eu-west-1.amazonaws.com/gc-blog/assets/images/blockquote.png') no-repeat;
+  background-position-y: 10px;
 }
 
 p {
