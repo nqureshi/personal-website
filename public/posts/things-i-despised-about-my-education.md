@@ -18,7 +18,7 @@ My education taught me to value *getting the right answer*. (It also taught me t
 
 But I later learned that to get anything of real value done, you've got to be prepared to do stuff badly the first time - purely because you'll be doing so many things that are new to you, and failing is just a natural part of the learning process. 
 
-A book I read recently, 'How Children Fail', by John Holt, articulates the idiocy of this very well. 
+A book I read recently, ['How Children Fail'](http://www.amazon.com/Children-Fail-Classics-Child-Development/dp/0201484021/ref=sr_1_1?ie=UTF8&qid=1360525081&sr=8-1&keywords=how+children+fail), by John Holt, articulates the idiocy of this very well. 
 
 > Kids in school seem to use a fairly consistent strategy…it is answer-centred rather than problem-centred…
 >
@@ -28,7 +28,7 @@ A book I read recently, 'How Children Fail', by John Holt, articulates the idioc
 >
 > Practically everything we do in school tends to make children answer-centred…right answers pay off. Schools are a kind of temple of worship for 'right answers'…
 
-I was a huge tinkerer as a teenager & taught myself to play several musical instruments, purely because I wanted to. I used to be obsessed with Gould's rendering of *the Goldberg Variations* and wanted to learn the piano purely so I could play those. So I taught myself the piano and the whole thing was *fun* - no external expectations or answers I had to get, no 'doing things the right way', just listening to myself and figuring out whether what I was playing sounded good or not. 
+I was a huge tinkerer as a teenager & taught myself to play several musical instruments, purely because I wanted to. I used to be obsessed with Gould's rendering of [*the Goldberg Variations*](https://www.google.co.uk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CD0QtwIwAQ&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DN2YMSt3yfko&ei=-vYXUds6yYzTBfXCgegC&usg=AFQjCNF4myF3GTaQ7YwPz2WDRdTrvju5NQ&bvm=bv.42080656,d.d2k) and wanted to learn the piano purely so I could play those. So I taught myself the piano and the whole thing was *fun* - no external expectations or answers I had to get, no 'doing things the right way', just listening to myself and figuring out whether what I was playing sounded good or not. 
 
 In the last couple of years, I've been going through a process of un-education: removing all the bad habits that school somehow implanted in me:
 
@@ -49,3 +49,5 @@ Our system should be producing more adults with this same fearlessness, who go a
 Some of them eventually figure things out and become happier people. But I know so many who've just given up. They end up becoming the middle managers in big corporates. 
 
 We need to find a better way to teach children, one that doesn't kill their innate sense of curiosity and play.   
+
+*Update: some good discussion on HN [here](http://news.ycombinator.com/item?id=5196666).*
