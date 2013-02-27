@@ -2,7 +2,11 @@
 <html>
  <head>
   <meta charset="UTF-8">
-  <title>Nabeel Qureshi - Blog</title>
+  <% if @post %>
+    <title><%= @post.title %> | Nabeel Qureshi's Blog</title>
+  <% else %>
+    <title>Nabeel Qureshi - Blog</title>
+  <% end %>
   <link rel="stylesheet" href="/nabeel3.css">
   <script type="text/javascript">
 
