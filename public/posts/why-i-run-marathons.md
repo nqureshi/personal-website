@@ -12,11 +12,15 @@ Discovering a new, reliable source of joy is valuable.
 
 <b>It's a form of meditation</b>. My mind quietens down after running for 20-30 minutes. Our minds need quiet time just to wander, think etc: running distances is one way of doing that. (Paul Graham [recommends taking hikes](http://www.paulgraham.com/addiction.html).) I don't take any electronic stuff with me when running. 
 
+<b>Emotional stability.</b> You could think of your life as a 'portfolio' of different things: work, relationships, etc. The more things in your portfolio, the less impact any single one of them has on your overall position. So maybe you had a bad week at work, but you also reached a personal best while running. Result: stability.
+
 <b>It's healthy</b>. Everyone knows that exercise is healthy. Running, in particular, makes me feel great afterwards: I'm clear-headed and can think quicker, I feel more energetic, I sleep better, food tastes better, colours are brighter, etc. 
 
 <b>It's communal</b>. I train alone, but the race itself is a communal experience. Thousands of you wait together before the event starts while music & trumpets play, announcers blare into their mics, crowds cheer, etc. It feels exactly like what I imagine going into battle to feel like, minus the fear: like your heart's swelling. It sounds absurd, but is actually great fun. Runners tend to be pretty nice to each other, too, since the marathon isn't really a competitive sport except at the elite level. You're racing against yourself.
 
 <b>It's an excuse to go outside</b>. Related to the 'joy' thing: I feel terrible if I spend too much time indoors. I refuse to run on treadmills, because it's boring and sterile. But being outside is awesome: there's value in just observing things, whether it's trees in a park or the architecture of different houses in different parts of London. 
+
+<b>It's a massive 'f you' to mortality.</b> I'm not going to be able to do this when I'm older and disintegrating. It seems worth enjoying now. 
 
 You can probably get most of these from other forms of exercise as well. I picked running because all I needed were some shoes to do it. It worked out pretty well, though. 
 
