@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 
 require 'yaml'
+require 'Date'
 
 dir = File.join(File.dirname(__FILE__), 'public', 'posts')
 posts_list =  Dir.entries(dir) - %w[. ..]
@@ -13,7 +14,7 @@ posts_list.each do |p|
     'title'     => File.basename(p, ".md"),
     'slug'      => File.basename(p, ".md").downcase.strip.gsub(/\s/, '-').gsub(/[^a-z0-9-]/, ''),
     'content'   => IO.read(File.join(dir, p)),
-    'date'      => File.ctime(File.join(dir, p)).strftime("%B %d, %Y")
+    'date'      => Date.parse(File.ctime(File.join(dir, p)).strftime("%B %d, %Y"))
   }
 end
 
