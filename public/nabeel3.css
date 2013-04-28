@@ -49,6 +49,7 @@ blockquote, q {
 #header {
 	margin-top: 10px;
 	margin-bottom: 10px;
+	position:relative;
 }
 
 #container
@@ -58,14 +59,26 @@ blockquote, q {
 	max-width: 600px;
 }
 
+#content {
+	clear:both;
+}
+
 h1 {
 	font-size: 36px;
 	margin-bottom: 0.5em;
 	font-weight:bold;
 }
 
+.main {
+	float:left;
+}
+
+.page-heading {
+	margin-top:100px;
+}
+
 h2 {
-	font-size: 30px;
+	font-size: 28px;
 	margin-bottom: 0.8em;
 	margin-top:1em;
 	line-height:1.25em;
@@ -132,12 +145,24 @@ img.home {
 }
 
 .posted { 
-	text-align: right; 
+	float: right; 
 	color: #666; 
 	font-style: italic; 
+	margin-top:10px;
+}
+
+.twitter-share-button {
+	margin-top:10px;
+	float:left;
+}
+
+.twitter-callout {
+	margin-top:10px;
 }
 
 .nav-link {
 	text-align: right; 
 	font-style: italic;
+	float:right;
+	padding:5px;
 }

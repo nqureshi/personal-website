@@ -1,12 +1,9 @@
-<div class="nav-link">
-  <a href="http://www.nabeelqu.com/blog">Other Essays</a>
-</div>
-<h2 class="post-title"><%= @post.title %></h2>
+<a class="nav-link" href="/blog">Other Essays</a>
+<h2 class="page-heading"><%= @post.title %></h2>
 <%= @post.content %>
 <p class="posted">- <%= @post.date.strftime("%B %d, %Y") %></p>
 <!-- Twitter share -->
 <a href="https://twitter.com/share" class="twitter-share-button" data-text="<%= @post.title %> | Nabeel Qureshi:" data-via="nabeelqu">Tweet</a>
 <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 <br /><br />
-<!-- Follow text -->
-<p><i>You should follow me on Twitter <a href="http://www.twitter.com/nabeelqu">here.</a></i></p>
+<p class="twitter-callout"><i>You should follow me on Twitter <a href="http://www.twitter.com/nabeelqu">here.</a></i></p>
