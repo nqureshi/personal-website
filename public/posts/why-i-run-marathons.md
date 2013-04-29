@@ -1,6 +1,6 @@
 A lot of people are mystified as to why I run marathons. So I thought I'd write about it. 
 
-<b>It's 'endurance practice'</b>. Getting through a marathon requires an extraordinary mental effort <i>not to stop</i> when your entire body screaming at you to stop. 
+<b>It's 'endurance practice'</b>. Getting through a marathon requires an extraordinary mental effort <i>not to stop</i> when your entire body is screaming at you to stop. 
 
 Why? The body can only store about 20 miles' worth of glycogen (an easily accessible form of energy derived from carbs) before turning to other sources of fuel such as fat. So the last six miles of a marathon are agony. (Known as ['hitting the wall'](http://en.wikipedia.org/wiki/Hitting_the_wall)). 
 
