@@ -1,25 +1,25 @@
 David Brooks, [writing for the NYT](http://www.nytimes.com/2013/06/11/opinion/brooks-the-solitary-leaker.html?ref=davidbrooks), informs us that: 
 
->"<i>he could not successfully 
-work his way through the institution of high school</i>", 
+><i>he could not successfully 
+work his way through the institution of high school</i> 
 
-and that 
+and that: 
 
->"he has not 
-been a regular presence around his mother’s house for years". 
+>he has not 
+been a regular presence around his mother’s house for years.
 
 Jeffrey 
 Toobin, of the New Yorker, [writes that](http://www.newyorker.com/online/blogs/comment/2013/06/edward-snowden-nsa-leaker-is-no-hero.html) Snowden is: 
 
-> "a grandiose 
-narcissist who deserves to be in prison". 
+>a grandiose 
+narcissist who deserves to be in prison.
 
-In a really [marvelous piece](http://www.politico.com/story/2013/06/10-things-to-know-about-edward-snowden-92491.html?hp=r2) called '10 Things to Know About Edward Snowden', Politico decided that the most important thing was "<i>He doesn't have a high school diploma</i>", and the third most important thing was "<i>He wasn't a friendly neighbour</i>".
+In a really [marvelous piece](http://www.politico.com/story/2013/06/10-things-to-know-about-edward-snowden-92491.html?hp=r2) called '10 Things to Know About Edward Snowden', Politico decided that the most important thing you need know is that "<i>He doesn't have a high school diploma</i>". No. 3 is "<i>He wasn't a friendly neighbour</i>".
 
-These smears would be laughable, if they weren't sad. Name-calling and ad 
-hominem attacks are what people do when they have nothing intelligent to say. 
+These smears would be laughable, if they weren't sad. When people have nothing intelligent to say, they resort to name-calling and ad 
+hominem attacks. Snowden's relationship with his mother has nothing to do with, well, anything.
 
-Unfortunately, whenever revelations like these appear, the media launches a coordinated effort to smear the character of the revealer. 
+This isn't new. Whenever revelations like these appear, the media launches a coordinated effort to smear the character of the revealer. 
  
 Back in the 70s, a guy named Daniel Ellsberg leaked the Pentagon Papers, which 
 showed that the government had lied about Vietnam & dragged the US into a war 
