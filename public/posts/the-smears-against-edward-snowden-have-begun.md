@@ -40,3 +40,4 @@ As Assange himself said to CNN: "<i>Do you want to talk about deaths of 104,000 
 
 We can't expect the mainstream media to do a great job on this. Let's step up and do it ourselves.
 
+<i>Update: good discussion on HN [here](news.ycombinator.com/item?id=5862195).</i>
