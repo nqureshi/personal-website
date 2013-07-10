@@ -27,11 +27,6 @@ module Nabeel
       @post = posts.find { |p| p.slug  == params[:slug] }
       erb :post, :layout => :bloglayout
     end
-  
-    get '/poem/?' do
-      get_poem_data
-      haml :poem, :layout => :poemlayout
-    end
     
     get '/songbook' do
       haml :songbook, :layout => :poemlayout
@@ -45,18 +40,6 @@ module Nabeel
     
       def posts
         @posts || content.each.map(&Post.method(:new))
-      end
-    
-      def get_random_poem # Return URL of random poem
-        poem_url = Nokogiri::HTML(open(POEMS_URL)).css("#block-system-main a")[rand(1..4785)]["href"]
-        POEMS_URL.gsub("/poems", "") + poem_url
-      end
-    
-      def get_poem_data
-        @poem = Nokogiri::HTML(open(get_random_poem))
-        @poem_title = @poem.css("#page-title")
-        @poem_author = @poem.css(".poet-name-in-poem")
-        @poem_text = @poem.css(".line-text")
       end
     
     end
