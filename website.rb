@@ -32,6 +32,10 @@ module Nabeel
       get_poem_data
       haml :poem, :layout => :poemlayout
     end
+    
+    get '/songbook' do
+      erb :songbook, :layout => :poemlayout
+    end
   
     helpers do
       
