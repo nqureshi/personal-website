@@ -34,7 +34,7 @@ module Nabeel
     end
     
     get '/songbook' do
-      erb :songbook, :layout => :poemlayout
+      haml :songbook, :layout => :poemlayout
     end
   
     helpers do
