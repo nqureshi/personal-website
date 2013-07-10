@@ -5,16 +5,17 @@ require 'nokogiri'
 require 'open-uri'
 require 'kramdown'
 require 'yaml'
+require 'rdiscount'
 require File.dirname(__FILE__) + '/lib/blog/' + 'post'
 
 module Nabeel
   class Website < Sinatra::Base
   
-    POEMS_URL = "http://rpo.library.utoronto.ca/poems"
-  
     PUBLIC_DIR    = File.join(APP_DIR, 'public')
     VIEW_DIR      = File.join(APP_DIR, 'views')
     CONTENT_FILE  = File.join(APP_DIR, 'posts.yaml')
+    
+    set :markdown, :layout_engine => :erb
 
     get('/')        { haml :index }
     get('/quotes/?')  { haml :quotes }
@@ -29,7 +30,7 @@ module Nabeel
     end
     
     get '/songbook' do
-      erb :songbook, :layout => :poem
+      markdown :songbook, :layout => :poem
     end
   
     helpers do
