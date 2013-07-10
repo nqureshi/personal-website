@@ -2,7 +2,7 @@
 
 <i>Sebastian Arrurruz: 1868 - 1922</i>
 
-I
+<h3>I</h3>
 
 Ten years without you. For so it happens.  
 Days make their steady progress, a routine  
@@ -18,7 +18,7 @@ The long-lost words of choice and valediction.
 <br />
 <br />
 
-COPLAS
+<h3>COPLAS</h3>
 
 <p style='margin-left:200px'>i</p>  
 'One cannot lose what one has not possessed.'  
@@ -41,7 +41,7 @@ I speak in contained silence. Will they be touched
 By the unfamiliar passion between them?  
 <br />
 
-3
+<h3>3</h3>
 
 What other men do with other women  
 Is for me neither orgy nor sacrament  
@@ -56,7 +56,7 @@ As I can have: an alien landscape,
 The dream where you are always to be found.   
 <br />
 
-4  
+<h3>4</h3>  
 
 A workable fancy. Old petulant  
 Sorrow comes back to us, metamorphosed  
@@ -66,7 +66,7 @@ See how each fragment kindles as we turn it,
 At the end, into the light of appraisal.   
 <br />
 
-5  
+<h3>5</h3>  
 
 Love, oh my love, it will come  
 Sure enough. A storm  
@@ -81,7 +81,7 @@ And exile. The exact words
 Are fed into my blank hunger for you.  
 <br />
 
-POSTURES  
+<h3>POSTURES</h3>  
 
 I imagine, as I imagine us  
 Each time more stylized more lovingly  
@@ -95,7 +95,7 @@ Through which the excess of memory
 Pursues its own abstinence.  
 <br />
 
-FROM THE LATIN  
+<h3>FROM THE LATIN</h3>  
 
 There would have been things to say, quietness  
 That could feed on our lust, refreshed  
@@ -108,7 +108,7 @@ Dutifully toward some unneeded guest
 Desirable features of conversation.  
 <br />
 
-A LETTER FROM ARMENIA
+<h3>A LETTER FROM ARMENIA</h3>
 
 So, remotely, in your part of the world:  
 the ripe glandular blooms, and cypresses  
@@ -121,7 +121,7 @@ circumstantial disasters. I gaze at the
 <span style='margin-left:100px'>authentic dead.</span>   
 <br />
 
-A SONG FROM ARMENIA  
+<h3>A SONG FROM ARMENIA</h3>  
 
 Roughly-silvered leaves that are the snow  
 On Ararat seen through those leaves.   
@@ -136,7 +136,7 @@ Your mouth, and your hand running over me
 Deft as a lizard, like a sinew of water?  
 <br />
 
-TO HIS WIFE  
+<h3>TO HIS WIFE</h3>  
 
 You ventured occasionally -  
 As though this were another's house -  
@@ -147,7 +147,7 @@ Lovers rampant in proper delight
 When all their guests have gone.   
 <br />
 
-II  
+<h3>II</h3>  
 
 Scarcely speaking: it becomes as a  
 Coolness between neighbours. Often  
