@@ -2,7 +2,7 @@
 
 <i>Sebastian Arrurruz: 1868 - 1922</i>
 
-<h3>I</h3>
+<h3>I</h3>  
 
 Ten years without you. For so it happens.  
 Days make their steady progress, a routine  
@@ -18,7 +18,7 @@ The long-lost words of choice and valediction.
 <br />
 <br />
 
-<h3>COPLAS</h3>
+<h3>COPLAS</h3>  
 
 <p style='margin-left:200px'>i</p>  
 'One cannot lose what one has not possessed.'  
@@ -41,7 +41,7 @@ I speak in contained silence. Will they be touched
 By the unfamiliar passion between them?  
 <br />
 
-<h3>3</h3>
+<h3>3</h3>  
 
 What other men do with other women  
 Is for me neither orgy nor sacrament  
