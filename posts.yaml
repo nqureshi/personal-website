@@ -1,7 +1,7 @@
 ---
 - title: are-there-objective-probabilities?
   slug: are-there-objective-probabilities
-  content: "Apparently the [All Souls exam](http://en.wikipedia.org/wiki/All_Souls_College,_Oxford#Examination_Fellowships)
+  content: ! "Apparently the [All Souls exam](http://en.wikipedia.org/wiki/All_Souls_College,_Oxford#Examination_Fellowships)
     is the hardest in the world. Whether that's true or not, the [questions](http://www.all-souls.ox.ac.uk/userfiles/file/EF/PastPapers/General.pdf)
     are interesting and answering them is a good mental challenge. In this series
     I intend to do that - without looking at anything external.\n\nThe first question
@@ -66,7 +66,7 @@
   date: 2012-12-09
 - title: good-ideas-and-beliefs
   slug: good-ideas-and-beliefs
-  content: "My favourite thing about Peter Thiel's lectures (via [BlakeMasters](http://blakemasters.tumblr.com/)),
+  content: ! "My favourite thing about Peter Thiel's lectures (via [BlakeMasters](http://blakemasters.tumblr.com/)),
     was Thiel's question: \"What do you believe that almost no one else believes?\"
     \n\nThis is basically the efficient market hypothesis applied to ideas. \n\nThink
     of the set of all money-making ideas, and assume that you have a market full of
@@ -138,8 +138,8 @@
   date: 2013-10-22
 - title: how-to-learn
   slug: how-to-learn
-  content: "> 1. A person won&rsquo;t become proficient at something until he or she
-    has done it many times. In other words, if you want someone to be really good
+  content: ! "> 1. A person won&rsquo;t become proficient at something until he or
+    she has done it many times. In other words, if you want someone to be really good
     at building a software system, he or she will have to have built 10 or more systems
     of that type.\n> \n> 2. A person won&rsquo;t retain proficiency at a task unless
     he or she has at one time learned to perform that task very rapidly. Learning
@@ -149,7 +149,7 @@
   date: 2012-12-09
 - title: near-far-bias
   slug: near-far-bias
-  content: "Apparently:\n\n* People display stronger preferences for eating an apple
+  content: ! "Apparently:\n\n* People display stronger preferences for eating an apple
     over a candy bar <i>if this takes place in a week's time, compared to today</i>;\n*
     People tend to explain their own actions <i>situationally</i>, and others' actions
     by <i>dispositions</i>. <i>He</i> tripped over a rock because he's careless, <i>I</i>
@@ -188,148 +188,148 @@
     by the fact that we consider them good writers. \n\nIf you want to be a good writer,
     leave the beret in the closet and just write."
   date: 2013-10-22
-- title: peter-thiel-and-rene-girard
-  slug: peter-thiel-and-rene-girard
-  content: "> “I suspect that when the history of the 21st century is written circa
-    2100, he [Girard] will be seen as one of the great intellectuals” - Peter Thiel\n\nWhen
-    Blake Masters was posting his notes on [Peter Thiel's lectures at Stanford](http://blakemasters.tumblr.com/peter-thiels-cs183-startup),
-    I found myself fascinated by the influence of [Rene Girard](http://en.wikipedia.org/wiki/Rene_Girard).\n\nGirard's
-    an original thinker. I'm not fully persuaded by his worldview: it explains a lot,
-    but not everything. I've summarized his views here.\n\n1\\. <b>Mimesis determines
-    what you want</b>: In Girard's view, people have <i>appetites</i>, which are your
-    basic evolutionary needs: e.g. hunger; and <i>desires</i>, which are all other
-    wants, e.g. the desire for a diamond ring. <b>Girard's belief is that people form
-    desires based on what others around them want</b>. \n\nThis is known as the 'mimetic
-    mechanism'. People take their cues from the people around them. They use other
-    people as 'models', and (subconsciously) want what other people want, while rationalizing
-    the whole time. In the diamond ring example, companies like [DeBeers](http://en.wikipedia.org/wiki/De_Beers)
-    create a want artificially, and it catches on like a virus. People want diamond
-    rings because other people want them, but they rationalise it by saying \"<i>it
-    shows that my partner loves me</i>\".\n\nHow has this influenced Thiel? In [this
-    video](http://www.youtube.com/watch?feature=player_embedded&v=esk7W9Jowtc), Thiel
-    notes that people can be \"disturbingly herdlike\". Both this assertion, & Thiel's
-    general contrarianism, chime with Girard's philosophy. More generally:\n\n* <b>Stock
-    market</b>: The average agent is <b>not</b> a rational utility-maximizer who coldly
-    assess the fundamentals before making investments. Rather, the stock market is
-    fundamentally herd driven. Therefore, there are opportunities to be exploited:
-    people form blind spots because they are collectively taking their cues from each
-    other. One example here is Thiel [calling the $8 billion housing bubble](http://bigthink.com/ideas/17721)
-    before most other people, making his fund a lot of money as a result. \n* <b>Education</b>:
-    Most people still believe that getting an education guarantees safety. Thiel believes
-    that the decision to invest so much in higher education is irrational. If education
-    is overvalued, there are opportunities to be exploited. Hence the ['20 under 20'](http://www.thielfellowship.org/)
-    scheme. \n* <b>Business/technology</b>: Thiel tends to look for startups doing
-    fundamentally new or different things, rather than copying existing ideas. The
-    Girardian view implies that people will over-crowd certain areas (e.g. social
-    web applications) and under-crowd other areas (e.g. life-extension tech). Thiel
-    seems to agree (from [Founder's Fund](http://www.foundersfund.com/)): \"VC has
-    ceased to be the funder of the future, and instead has become a funder of features,
-    widgets, irrelevances.\"\n\n2\\. <b>Mimesis as the cause of conflict</b>: Girard's
-    view is that conflict caused by the mimetic mechanism: people fight because they
-    model their desires on each other, come to desire similar things, and end up fighting
-    over them. Because of this imitiative process, they tend to become more and more
-    alike. Think of Microsoft/Apple/Google all trying to make the best smartphone/tablet.\n\n>
-    “Violence is generated by this process; or rather, violence is the process itself
-    when two or more partners try to prevent one another from appropriating the object
-    they all desire through physical or other means” (Girard).\n\nThiel clearly subscribes
-    to this view. From Blake Masters's transcripts of his lectures:\n\n> So which
-    perspective is right in the tech world? How much is Marx? How much is Shakespeare?\n\n>
-    In the great majority of cases, it’s straight Shakespeare. They grind each other
-    down through increased competition. And everyone loses sight of the bigger picture.\n\n(Source:
-    [Blake Masters](http://blakemasters.tumblr.com/post/23250566538/peter-thiels-cs183-startup-class-12-notes-essay))\n\n*
-    <b>Business / tech</b>:, Thiel believes that a myopic focus on your competitors
-    can be dangerous if it compromises your own vision. In the lecture quoted above,
-    he uses Google/Microsoft as \tan example, noting how e.g. Microsoft's decision
-    to go after Google in search has cost them billions of dollars. The counterargument
-    here (made by Reid Hoffman in the lecture) is that Microsoft is rationally going
-    after a lucrative part of the internet. Thiel, however, disagrees: \n\n> \"It
-    isn’t just rational calculation because tremendous effort is spent on things that,
-    probabilistically, aren’t lucrative at all.\"\n\n* <b>Hiring/business</b>: Probably
-    the source of Thiel's 'extreme focus' philosophy (source: [Quora](http://www.quora.com/PayPal/What-strong-beliefs-on-culture-for-entrepreneurialism-did-Peter-Max-David-have-at-PayPal/answer/Keith-Rabois)).
-    This is the idea that each person, in an organization, is given one thing to focus
-    on and therefore one contribution that they will primarily be judged by. The rationale
-    makes sense from a Girardian point of view: if you give people more than one thing,
-    the probability of overlap increases; increase the overlap, and you end up with
-    people wanting the same thing and therefore conflict, something Thiel takes pains
-    to avoid within a company. (\"Most companies are killed by internal infighting,
-    even though it may not seem like it.\")\n\n3\\. <b>The scapegoat mechanism</b>:
-    Girard's theory of social change: societies gradually become more and more conflicted
-    as mimesis spreads like a virus & people start fighting over the same things.
-    A crisis point is reached. This crisis is resolved by the scapegoat mechanism:
-    people decide that one person (or group of people) is responsible for the social
-    discord and persecute / kill that person. The cycle then repeats. \n\nThiel subscribes
-    to this view, as is evident from [his lecture on the founder as god](http://blakemasters.tumblr.com/post/24578683805/peter-thiels-cs183-startup-class-18-notes-essay).
-    You can see, from the lecture, that it affects his views on the justice system
-    (where the jury isn't rational, you often get perverse outcomes because of the
-    scapegoat mechanism), society (celebrities rise, are crowned as kings, & then
-    people turn on them), politics (right wing / left wing polarization, resulting
-    in each side having their own scapegoats; the Occupy movement scapegoating the
-    rich). \n\n4\\. <b>Religion</b>: Girard is a Christian. One of his arguments in
-    this area is that Christianity is a unique religion that represents a turning
-    point in human history. \n\nWhy? Throughout most of human history, society has
-    been sacrificing essentially random people (scapegoats) to restore social order.
-    <i>Christanity is the first religion to call humans out on this monstrous behaviour</i>,
-    by showing us very clearly that the person being scapegoated is totally innocent
-    - by definition, since he's the son of God. \n\nThe scapegoat mechanism stops
-    working if everyone knows about it. In the absence of the ability to resort to
-    the scapegoat mechanism, society could potentially get more and more conflictual,
-    without having a clear way of resolving conflicts. (This view probably contradicts
-    [the empirical evidence](http://online.wsj.com/article/SB10001424053111904106704576583203589408180.html).)\n\nThiel
-    is, from what I have read, Christian as well. No public statements go into detail
-    on his religious belief, so I can't make claims about it: however, it's probable
-    that Girard's view of Christianity was a key influence. He certainly believes
-    that increasing conflict ('bad mimesis') is a possible and not unlikely outcome."
-  date: 2013-10-22
 - title: surprisingly-undervalued-books
   slug: surprisingly-undervalued-books
-  content: |-
-    I saw 'Moneyball' recently. It's about a baseball coach who takes on a failing team and turns them into a huge success. His method? Acquire players who seem terrible, but are actually good. In other words, find undervalued baseball players.
+  content: ! 'I saw ''Moneyball'' recently. It''s about a baseball coach who takes
+    on a failing team and turns them into a huge success. His method? Acquire players
+    who seem terrible, but are actually good. In other words, find undervalued baseball
+    players.
 
-    This got me thinking about books. I've read some great books recently which I wouldn't have heard of by reading 'best of' lists or going through an A-Z of the classics. In almost all cases, I heard of them through bloggers or forums. Yet I consider these to be some of the most important books I've read so far.
 
-    These books don't look like they'll be worth much on the surface, and turn out to be really great. They're undervalued.
+    This got me thinking about books. I''ve read some great books recently which I
+    wouldn''t have heard of by reading ''best of'' lists or going through an A-Z of
+    the classics. In almost all cases, I heard of them through bloggers or forums.
+    Yet I consider these to be some of the most important books I''ve read so far.
 
-    I'm not necessarily talking about obscure books/authors here. I'm talking about the ratio of how good the book is to how good you expect it to be. These are the outliers, the ones that most people don't talk about very much or haven't heard of, and yet turn out to be profoundly brilliant.
 
-    One interesting pattern these books display - with the caveat that this is a very small sample size - is that they're generally in a particular niche. 'Impro', for example, is disguised as a drama book but turns out to be a book about education philosophy, creativity, the theory of narrative and the role of status in human interaction; 'The Inner Game of Tennis' looks like a tennis instruction manual and turns out to be a book about Zen, the 'two selves', and other things.
+    These books don''t look like they''ll be worth much on the surface, and turn out
+    to be really great. They''re undervalued.
 
-    I'd love to find more of these. So if you know of any, please email me, Facebook me, tweet me, whatever.
+
+    I''m not necessarily talking about obscure books/authors here. I''m talking about
+    the ratio of how good the book is to how good you expect it to be. These are the
+    outliers, the ones that most people don''t talk about very much or haven''t heard
+    of, and yet turn out to be profoundly brilliant.
+
+
+    One interesting pattern these books display - with the caveat that this is a very
+    small sample size - is that they''re generally in a particular niche. ''Impro'',
+    for example, is disguised as a drama book but turns out to be a book about education
+    philosophy, creativity, the theory of narrative and the role of status in human
+    interaction; ''The Inner Game of Tennis'' looks like a tennis instruction manual
+    and turns out to be a book about Zen, the ''two selves'', and other things.
+
+
+    I''d love to find more of these. So if you know of any, please email me, Facebook
+    me, tweet me, whatever.
+
 
     The list so far:
 
-    1\. '**[Impro](http://www.amazon.co.uk/Impro-Performance-Books-Improvisation-Theatre/dp/0713687010/ref=sr_1_1?ie=UTF8&amp;qid=1350209370&amp;sr=8-1)**' by Keith Johnstone. Learning certain sets of concepts - like Newtonian mechanics, calculus, comparative advantage - changes the way you see the world. 'Impro' gave me at least a piece of the set of concepts for understanding human interaction at a conscious, theoretical level. Yet it's a totally unpretentious book about improvisational drama.
 
-    This is probably the book I'd recommend the most from this list to the average person.
+    1\. ''**[Impro](http://www.amazon.co.uk/Impro-Performance-Books-Improvisation-Theatre/dp/0713687010/ref=sr_1_1?ie=UTF8&amp;qid=1350209370&amp;sr=8-1)**''
+    by Keith Johnstone. Learning certain sets of concepts - like Newtonian mechanics,
+    calculus, comparative advantage - changes the way you see the world. ''Impro''
+    gave me at least a piece of the set of concepts for understanding human interaction
+    at a conscious, theoretical level. Yet it''s a totally unpretentious book about
+    improvisational drama.
 
-    2\. '**[The Inner Game of Tennis](http://www.amazon.co.uk/Inner-Game-Tennis-Timothy-Gallwey/dp/0330295136/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209411&amp;sr=1-1)**' by Timothy Gallwey. This is supposed to be a book about getting better at tennis, but only one chapter is devoted to the actual mechanics of tennis. Instead, it's a great instruction manual on emotion, stress, Zen Buddhism, and achievement. Frankly, it blew my mind.
 
-    You can get a taste it it in [this](https://www.youtube.com/watch?v=50L44hEtVos) brilliant video with Alan Kay, but it's only a fraction of the kind of thing you'll find in this book.
+    This is probably the book I''d recommend the most from this list to the average
+    person.
 
-    3\. '**[The Philosophical Investigations](http://www.amazon.co.uk/Philosophical-Investigations-Ludwig-Wittgenstein/dp/1405159294/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209483&amp;sr=1-1)**' by Ludwig Wittgenstein. This is probably the book with the most 'classic' status of the bunch. I find that it's thoroughly undervalued by philosophers, though, who see it as an arcane and eccentric work of little value. And ordinary people don't bother reading it, probably for good reason: it's a difficult thing to read. However, spending the time to understand it is hugely rewarding.
 
-    Ironically for a book ignored by most philosophers, it contains the answers to a lot of their questions, and the method for answering all of them.
+    2\. ''**[The Inner Game of Tennis](http://www.amazon.co.uk/Inner-Game-Tennis-Timothy-Gallwey/dp/0330295136/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209411&amp;sr=1-1)**''
+    by Timothy Gallwey. This is supposed to be a book about getting better at tennis,
+    but only one chapter is devoted to the actual mechanics of tennis. Instead, it''s
+    a great instruction manual on emotion, stress, Zen Buddhism, and achievement.
+    Frankly, it blew my mind.
 
-    4\. '**[Raise High The Roofbeams, Carpenter / Seymour: An Introduction](http://www.amazon.co.uk/Raise-High-Roof-Carpenters-Seymour/dp/0241950465/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209566&amp;sr=1-1)**' by J.D. Salinger. I was tempted to put 'Franny and Zooey' here too, but I think it has enough devotion that it's disqualified. This collection of two stories by Salinger, however, is much less well known. Yet I'd put this in my fiction top 5. I must have read Seymour: An Introduction about 20 times.
 
-    I've recommended this to a few people and only one other person has liked it as much as I do. Most people didn't get it. I'm not sure what conclusion to draw from that.
+    You can get a taste it it in [this](https://www.youtube.com/watch?v=50L44hEtVos)
+    brilliant video with Alan Kay, but it''s only a fraction of the kind of thing
+    you''ll find in this book.
 
-    5\. '**[Shakespeare's Sonnets](http://www.amazon.co.uk/Shakespeares-Sonnets-Yale-Nota-Bene/dp/0300085060/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209598&amp;sr=1-1)**' by Stephen Booth. If you don't get poetry, read Stephen Booth. Maybe you've read some poems and really like them, but you can't articulate exactly why beyond just gesturing. Booth gives a definition of why poems are good that is, I think, objective enough that you could develop a computer-generated index of the goodness of a poem out of it. Not everyone will agree with it, but I've found it works really well. Wikipedia has a good list of some of his stuff online [here](http://en.wikipedia.org/wiki/Stephen_Booth_(academic)).
 
-    6\. '**[Principles](http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf)'&nbsp;**(pdf) by Ray Dalio. Dalio's a hedge fund manager - the most successful one in the world. His firm, Bridgewater, is known for being radically transparent: every meeting is recorded and recordings are available to anyone (so I could access the recordings of a meeting between two managers discussing my feedback, for example).
+    3\. ''**[The Philosophical Investigations](http://www.amazon.co.uk/Philosophical-Investigations-Ludwig-Wittgenstein/dp/1405159294/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209483&amp;sr=1-1)**''
+    by Ludwig Wittgenstein. This is probably the book with the most ''classic'' status
+    of the bunch. I find that it''s thoroughly undervalued by philosophers, though,
+    who see it as an arcane and eccentric work of little value. And ordinary people
+    don''t bother reading it, probably for good reason: it''s a difficult thing to
+    read. However, spending the time to understand it is hugely rewarding.
 
-    This is good reading if you're in business and want to understand what makes a good company culture, and how to solve problems. It's also good reading in general, because Dalio has a relentlessly rational, critical take on things and it's good for people to see that kind of mind at work. He talks a lot about how to achieve things as well, which is always useful. His advice here is better than any self-help book.&nbsp;
 
-    7\. '**[Drawing on the Right Side of the Brain](http://www.amazon.co.uk/New-Drawing-Right-Side-Brain/dp/0007116454 "Drawing")**' by Betty Edwards. Again, this blew my mind. I sucked at drawing as a teenager, and this book taught me how to do it. She specializes in teaching people to draw competently over short periods of time using what I can only describe as extremely clever hacks.&nbsp;
+    Ironically for a book ignored by most philosophers, it contains the answers to
+    a lot of their questions, and the method for answering all of them.
 
-    In the process, the book also taught me that (a) with hard work and the right methods, you can learn most things, and your barriers are probably mental; (b) &lsquo;bad&rsquo; drawers don&rsquo;t look at the thing itself and draw its shape, they translate reality into abstract concepts first and then draw what that concept visually looks like, and a great way to prove this (and hack the process) is to copy a drawing upside down; (c) seeing things as they really are is harder than you think.&nbsp;
 
-    8\. **[Ray Carney](http://en.wikipedia.org/wiki/Ray_Carney)**: not naming a particular book here. Like the other books here, his writings seem to be just about films, but if you read them deeply enough they turn out to be a recipe for more than that - in this case, how to be a good, empathetic human being. He got me into John Cassavetes, which alone makes him worth the read. His writings on film are amazing. You can find a bunch of them via Wikipedia.&nbsp;
+    4\. ''**[Raise High The Roofbeams, Carpenter / Seymour: An Introduction](http://www.amazon.co.uk/Raise-High-Roof-Carpenters-Seymour/dp/0241950465/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209566&amp;sr=1-1)**''
+    by J.D. Salinger. I was tempted to put ''Franny and Zooey'' here too, but I think
+    it has enough devotion that it''s disqualified. This collection of two stories
+    by Salinger, however, is much less well known. Yet I''d put this in my fiction
+    top 5. I must have read Seymour: An Introduction about 20 times.
 
-    I actually don't expect most people to like the books on this list - that's just a sober prediction. To me, though, that's a good sign. If everything I liked was what everybody *would* like, then I'd have something to worry about.&nbsp;
+
+    I''ve recommended this to a few people and only one other person has liked it
+    as much as I do. Most people didn''t get it. I''m not sure what conclusion to
+    draw from that.
+
+
+    5\. ''**[Shakespeare''s Sonnets](http://www.amazon.co.uk/Shakespeares-Sonnets-Yale-Nota-Bene/dp/0300085060/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1350209598&amp;sr=1-1)**''
+    by Stephen Booth. If you don''t get poetry, read Stephen Booth. Maybe you''ve
+    read some poems and really like them, but you can''t articulate exactly why beyond
+    just gesturing. Booth gives a definition of why poems are good that is, I think,
+    objective enough that you could develop a computer-generated index of the goodness
+    of a poem out of it. Not everyone will agree with it, but I''ve found it works
+    really well. Wikipedia has a good list of some of his stuff online [here](http://en.wikipedia.org/wiki/Stephen_Booth_(academic)).
+
+
+    6\. ''**[Principles](http://www.bwater.com/Uploads/FileManager/Principles/Bridgewater-Associates-Ray-Dalio-Principles.pdf)''&nbsp;**(pdf)
+    by Ray Dalio. Dalio''s a hedge fund manager - the most successful one in the world.
+    His firm, Bridgewater, is known for being radically transparent: every meeting
+    is recorded and recordings are available to anyone (so I could access the recordings
+    of a meeting between two managers discussing my feedback, for example).
+
+
+    This is good reading if you''re in business and want to understand what makes
+    a good company culture, and how to solve problems. It''s also good reading in
+    general, because Dalio has a relentlessly rational, critical take on things and
+    it''s good for people to see that kind of mind at work. He talks a lot about how
+    to achieve things as well, which is always useful. His advice here is better than
+    any self-help book.&nbsp;
+
+
+    7\. ''**[Drawing on the Right Side of the Brain](http://www.amazon.co.uk/New-Drawing-Right-Side-Brain/dp/0007116454
+    "Drawing")**'' by Betty Edwards. Again, this blew my mind. I sucked at drawing
+    as a teenager, and this book taught me how to do it. She specializes in teaching
+    people to draw competently over short periods of time using what I can only describe
+    as extremely clever hacks.&nbsp;
+
+
+    In the process, the book also taught me that (a) with hard work and the right
+    methods, you can learn most things, and your barriers are probably mental; (b)
+    &lsquo;bad&rsquo; drawers don&rsquo;t look at the thing itself and draw its shape,
+    they translate reality into abstract concepts first and then draw what that concept
+    visually looks like, and a great way to prove this (and hack the process) is to
+    copy a drawing upside down; (c) seeing things as they really are is harder than
+    you think.&nbsp;
+
+
+    8\. **[Ray Carney](http://en.wikipedia.org/wiki/Ray_Carney)**: not naming a particular
+    book here. Like the other books here, his writings seem to be just about films,
+    but if you read them deeply enough they turn out to be a recipe for more than
+    that - in this case, how to be a good, empathetic human being. He got me into
+    John Cassavetes, which alone makes him worth the read. His writings on film are
+    amazing. You can find a bunch of them via Wikipedia.&nbsp;
+
+
+    I actually don''t expect most people to like the books on this list - that''s
+    just a sober prediction. To me, though, that''s a good sign. If everything I liked
+    was what everybody *would* like, then I''d have something to worry about.&nbsp;'
   date: 2012-12-09
 - title: the-smears-against-edward-snowden-have-begun
   slug: the-smears-against-edward-snowden-have-begun
-  content: "David Brooks, [writing for the NYT](http://www.nytimes.com/2013/06/11/opinion/brooks-the-solitary-leaker.html?ref=davidbrooks),
+  content: ! "David Brooks, [writing for the NYT](http://www.nytimes.com/2013/06/11/opinion/brooks-the-solitary-leaker.html?ref=davidbrooks),
     informs us that: \n\n><i>he could not successfully \nwork his way through the
     institution of high school</i> \n\nand that: \n\n>he has not \nbeen a regular
     presence around his mother’s house for years.\n\nJeffrey \nToobin, of the New
@@ -368,7 +368,7 @@
   date: 2013-10-22
 - title: things-i-despised-about-my-education
   slug: things-i-despised-about-my-education
-  content: "> I discovered a very strange phenomenon: I could ask a question, which
+  content: ! "> I discovered a very strange phenomenon: I could ask a question, which
     the students would answer immediately. But the next time I would ask the question
     - the same subject, and the same question, as far as I could tell - they couldn't
     answer it at all!…\n>\n> After a lot of investigation, I finally figured out that
@@ -433,7 +433,7 @@
   date: 2013-04-29
 - title: what-it's-like-to-be-racially-profiled
   slug: what-its-like-to-be-racially-profiled
-  content: "I'm a British citizen, and have grown up here most of my life. My parents
+  content: ! "I'm a British citizen, and have grown up here most of my life. My parents
     are from Pakistan. \n\nEvery time I've been to the US, I've been pulled aside
     from all the other people going through passport control, and ordered into a waiting
     room. Once it was both me and my little brother, who was 14 at the time. (This
@@ -487,7 +487,7 @@
   date: 2013-05-17
 - title: why-i-run-marathons
   slug: why-i-run-marathons
-  content: "A lot of people are mystified as to why I run marathons. So I thought
+  content: ! "A lot of people are mystified as to why I run marathons. So I thought
     I'd write about it. \n\n<b>It's 'endurance practice'</b>. Getting through a marathon
     requires an extraordinary mental effort <i>not to stop</i> when your entire body
     is screaming at you to stop. \n\nWhy? The body can only store about 20 miles'
