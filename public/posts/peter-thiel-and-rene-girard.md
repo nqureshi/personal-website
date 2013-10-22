@@ -1,6 +1,6 @@
 > “I suspect that when the history of the 21st century is written circa 2100, he [Girard] will be seen as one of the great intellectuals” - Peter Thiel
 
-When Blake Masters was posting his great notes on [Peter Thiel's lectures at Stanford](http://blakemasters.tumblr.com/peter-thiels-cs183-startup), I found myself fascinated by the influence of [Rene Girard](http://en.wikipedia.org/wiki/Rene_Girard).
+When Blake Masters was posting his notes on [Peter Thiel's lectures at Stanford](http://blakemasters.tumblr.com/peter-thiels-cs183-startup), I found myself fascinated by the influence of [Rene Girard](http://en.wikipedia.org/wiki/Rene_Girard).
 
 Girard's an original thinker. I'm not fully persuaded by his worldview: it explains a lot, but not everything. I've summarized his views here.
 

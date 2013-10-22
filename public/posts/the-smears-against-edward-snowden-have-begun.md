@@ -38,6 +38,6 @@ The sad thing is, this stuff works. A lot of my friends are incredibly smart peo
 
 As Assange himself said to CNN: "<i>Do you want to talk about deaths of 104,000 people or my personal life?</i>". 
 
-We can't expect the mainstream media to do a great job on this. Let's step up and do it ourselves.
+We can't expect the mainstream media to do a great job on this. Perhaps we should step up and do something ourselves.
 
 <i>Update: good discussion on HN [here](http://news.ycombinator.com/item?id=5862195).</i>

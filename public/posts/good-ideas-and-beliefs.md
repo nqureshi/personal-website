@@ -1,10 +1,10 @@
-My favourite thing about Peter Thiel's <i>invaluable</i> lectures (via [BlakeMasters](http://blakemasters.tumblr.com/)), was Thiel's question: "What do you believe that almost no one else believes?" (The business version: "What valuable company is no one building right now?")
+My favourite thing about Peter Thiel's lectures (via [BlakeMasters](http://blakemasters.tumblr.com/)), was Thiel's question: "What do you believe that almost no one else believes?" 
 
-What's elegant about this is that the logic for business mirrors the logic for beliefs.
+This is basically the efficient market hypothesis applied to ideas. 
 
-The business logic is basically the efficient market hypothesis. Think of the set of all money-making ideas, and assume that you have a market full of entrepreneurs who want to make money. All of the <i>obvious</i> valuable ideas are grabbed and those markets become saturated. Only <i>non-obvious</i> ideas remain, and many of those are grabbed, too.
+Think of the set of all money-making ideas, and assume that you have a market full of entrepreneurs who want to make money. All of the <i>obvious</i> valuable ideas are grabbed and those markets become saturated. Only <i>non-obvious</i> ideas remain, and many of those are grabbed, too.
 
-The bar of difficulty is high: most things have been taken already. Only the ideas that lie in unexpected directions are left, and most people don't take those directions, because they don't look like they could work to the average mind. 
+The bar of difficulty is high: most things have been taken already. Only the ideas that lie in unexpected directions are left, and most people don't take those directions, because they don't look like they could work to the average person. 
 
 Think of it as a treasure hunt, where all the areas of the map that are:
 
@@ -13,7 +13,7 @@ Think of it as a treasure hunt, where all the areas of the map that are:
 
 are exhausted. The only areas that remain are the ones that either seem <i>non-promising</i>, or <i>dangerous</i>. The business versions of these obstacles are: "that will never work, what a crazy idea", and "that's way too difficult, you'll never manage that without getting eaten" respectively.
 
-And yet, <i>some opportunities will always exist</i>. The map is never exhausted. 
+And yet, some opportunities will always exist. The map is never exhausted. 
 
 You just have to be either fearless (to get over the danger) or unconventional (to go to the areas that seem unpromising).
 
@@ -27,11 +27,9 @@ A nice illustration of the 'non-promising' argument is from Paul Buchheit invent
 
 > I then released the feature on our unsuspecting userbase of about 100 Googlers, and then went home and went to sleep. The response when I returned the next day was not what I would classify as "positive". Someone may have used the word "blasphemous". I liked the ads though -- they were amusing and often relevant. An email from someone looking for their lost sunglasses got an ad for new sunglasses. The lunch menu had an ad for balsamic vinegar.
 
-Of course, AdSense is now worth 28% of Google's revenue, or almost $10 billion. Some bad idea.
+AdSense is now worth 28% of Google's revenue, or almost $10 billion.
 
 Finding ideas in areas that don't seem promising seems pretty hard. One trick is to ask the question: will things still be that way in 100 years? If not, how should they change?
-
-I learned this trick from [Paul Graham](http://paulgraham.com/ambitious.html).
 
 Google may seem like it will exist forever, but are you really telling me that people will still be using Google for search in 100 years? Probably not. If that's the case, then something will displace Google - sooner or later. Why not now?
 
@@ -39,6 +37,8 @@ I said at the start of this post that the business logic mirrors the idea logic.
 
 Well, think of a set of beliefs. Actually, think of the <i>set of all sets</i> of beliefs, i.e. a load of 'belief-packages'. What era you are born in, and where, determines where you land in this set. (Being born in ancient Greece means that I most likely have a very different set of beliefs to someone born in the UK today.)
 
-We know that every era in the past had belief-sets that had mixed proportions of true/false factual beliefs, or right/wrong moral beliefs. No society thus far has had fully-true-on-average belief-sets, or fully 'right' belief-sets. It is improbable that our society has got there. So there must be some factual beliefs that we hold that are untrue, or moral beliefs that are wrong. 
+We know that every era in the past had belief-sets that had mixed proportions of true/false factual beliefs, or right/wrong moral beliefs. No society thus far has had fully-true-on-average belief-sets, or fully 'right' belief-sets. 
 
-It's worth thinking about what those are. After all, at some point in the future some guy is going to disrupt some of our most preciously held beliefs that we currently consider true or right. Which ones do we think those will be?
+It is improbable that our society has got there. So there must be some factual beliefs that we hold that are untrue, or moral beliefs that are wrong. 
+
+It's worth thinking about what those are. After all, at some point in the future someone is going to prove some of our beliefs wrong. Which ones do we think those will be?
