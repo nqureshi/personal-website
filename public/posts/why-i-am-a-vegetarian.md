@@ -37,7 +37,7 @@ Eating meat seems to rely on some important distinction between humans and anima
 
 We care about things because they are sentient. Being partial to your own species <i>because it's your own species</i> isn't a valid argument, any more than being partial to your own race, sexual orientation, gender etc. 
 
-There just doesn't seem to be a good reason to continue killing animals and eating them, at the kind of mass scale that we are doing. I think most people just do it because they were raised to think that eating meat is OK. Eating meat is unnecessary, and eating dead animals to satisfy your cravings seems like a selfish thing to do. So if you can't think of a good reason to continue doing it (if you've been paying attention, 'I enjoy it' doesn't count), can I suggest you try stopping? It's not actually as hard as you think. 
+There just doesn't seem to be a good reason to continue killing animals and eating them, let alone at the kind of mass scale that we are doing. I think most people just do it because they were raised to think that eating meat is OK. Eating meat is unnecessary, and eating dead animals to satisfy your cravings seems like a selfish thing to do. So if you can't think of a good reason to continue doing it (if you've been paying attention, 'I enjoy it' doesn't count), can I suggest you try stopping? It's not actually as hard as you think. 
 
 <b>Further Reading</b>
 
