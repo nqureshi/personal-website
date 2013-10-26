@@ -135,7 +135,7 @@
     are wrong. \n\nIt's worth thinking about what those are. After all, at some point
     in the future someone is going to prove some of our beliefs wrong. Which ones
     do we think those will be?"
-  date: 2013-10-22
+  date: 2013-10-26
 - title: how-to-learn
   slug: how-to-learn
   content: ! "> 1. A person won&rsquo;t become proficient at something until he or
@@ -187,7 +187,7 @@
     to be perceived as writers. Whereas the good writers prefer writing, as evidenced
     by the fact that we consider them good writers. \n\nIf you want to be a good writer,
     leave the beret in the closet and just write."
-  date: 2013-10-22
+  date: 2013-10-26
 - title: surprisingly-undervalued-books
   slug: surprisingly-undervalued-books
   content: ! 'I saw ''Moneyball'' recently. It''s about a baseball coach who takes
@@ -365,7 +365,7 @@
     life?</i>\". \n\nWe can't expect the mainstream media to do a great job on this.
     Perhaps we should step up and do something ourselves.\n\n<i>Update: good discussion
     on HN [here](http://news.ycombinator.com/item?id=5862195).</i>"
-  date: 2013-10-22
+  date: 2013-10-26
 - title: things-i-despised-about-my-education
   slug: things-i-despised-about-my-education
   content: ! "> I discovered a very strange phenomenon: I could ask a question, which
@@ -485,6 +485,58 @@
     out of your voice.\n\nEventually, they stamp your passport and you are escorted
     out. \n\nWelcome to America.\n\n(<i>Originally on [Quora](http://www.quora.com/Racial-Profiling/What-does-it-feel-like-to-be-racially-profiled/answer/Nabeel-Qureshi).</i>)"
   date: 2013-05-17
+- title: why-i-am-a-vegetarian
+  slug: why-i-am-a-vegetarian
+  content: ! "> \"The question is not, Can they reason? Nor can they talk? But, can
+    they suffer?\"\n>\n> \\- Jeremy Bentham\n\nI became a vegetarian about four months
+    ago. I'm ashamed it took me that long, but I was raised eating meat, and barely
+    know any vegetarians, and sometimes you avoid thinking about unpleasant stuff
+    unless you really have to. \n\nThe thought process below is what led me to it.
+    It's not analytically/philosophically rigorous and I haven't dealt with all objections,
+    but that's been done extremely well [elsewhere](http://en.wikipedia.org/wiki/Animal_Liberation_(book)).
+    I just thought it'd be interesting to recreate that train of thought.\n\nA lot
+    of people in England own dogs. It's safe to say that if I walked up to any of
+    their dogs and shot them dead, the owners would be upset. \n\nWhy? \n\nIt goes
+    beyond the mere fact they owned the dog - that would imply that they weren't upset
+    that the dog was shot, only that someone other than them shot the dog. \n\nNo
+    - they'd be upset because I killed the dog! The dog wanted to live, and I killed
+    it.\n\nThose people would be <i>even more upset</i> if I tortured the dog before
+    killing it. \n\nNow. There's nothing special about dogs. Sure, they're cute, and
+    smart, but it's not like the rule is 'don't kill/torture cute things'. The rule
+    is 'don't kill/torture things that don't want to be killed/tortured'.\n\nSo it
+    seems like:\n\n- Causing an animal pain is bad, to some degree\n- Killing an animal
+    is bad, to some degree\n\nBut perhaps this is just specific to dogs or cats? No,
+    I think the same goes for sheep, and indeed for any animal that we think is sentient.
+    Most people, if they lived with a sheep, took care of it, took it for walks, and
+    so on, would be upset if some stranger killed the sheep.\n\nYou can see where
+    this is going. \n\nThe obvious thing a meat-eater would have to argue to justify
+    the killing of animals is that although there is some badness in killing an animal,
+    it's outweighed by the good consequences that result. \n\nIn other words, what
+    I have for dinner is more important than that animal's life. \n\nThat seems ludicrous.
+    What if, instead of a chicken, it were an infant baby? Let's say it was given
+    up for adoption, so nobody cares about it, and let's also say that it's heavily
+    disabled & will never have an IQ greater than that of a chicken. In that case,
+    the badness of its dying can't be much greater than the badness of an animal dying
+    - why would it be bad to kill it and eat it, too?\n\nEating meat seems to rely
+    on some important distinction between humans and animals, such that eating animals
+    is OK and eating humans is not. But what is that distinction? It can't be intelligence,
+    because otherwise eating infant babies would be OK. \n\nWe care about things because
+    they are sentient. Being partial to your own species <i>because it's your own
+    species</i> isn't a valid argument, any more than being partial to your own race,
+    sexual orientation, gender etc. \n\nThere just doesn't seem to be a good reason
+    to continue killing animals and eating them, at the kind of mass scale that we
+    are doing. I think most people just do it because they were raised to think that
+    eating meat is OK. Eating meat is unnecessary, and eating dead animals to satisfy
+    your cravings seems like a selfish thing to do. So if you can't think of a good
+    reason to continue doing it (if you've been paying attention, 'I enjoy it' doesn't
+    count), can I suggest you try stopping? It's not actually as hard as you think.
+    \n\n<b>Further Reading</b>\n\n- I highly recommend [Peter Singer's work](http://en.wikipedia.org/wiki/Animal_Liberation_(book)).
+    All of the above is basically an informal statement of his philosophically rigorous
+    case. \n\n- A great exploration using the medium of short fiction is done by JM
+    Coetzee in his Tanner Lecture ['The Lives of Animals'](http://tannerlectures.utah.edu/_documents/a-to-z/c/Coetzee99.pdf).
+    \n\n- Jonathan Safran Foer explores the broader questions nicely in his book [Eating
+    Animals](http://en.wikipedia.org/wiki/Eating_Animals)."
+  date: 2013-10-27
 - title: why-i-run-marathons
   slug: why-i-run-marathons
   content: ! "A lot of people are mystified as to why I run marathons. So I thought
@@ -530,4 +582,4 @@
     it. It worked out pretty well, though. \n\nThe main thing to remember is that
     you won't like it straightaway: it takes 4-6 weeks of regular running before your
     body/mind adjust and you start enjoying it. So push through."
-  date: 2013-10-22
+  date: 2013-10-25
