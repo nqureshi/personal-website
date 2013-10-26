@@ -66,7 +66,6 @@ blockquote, q {
 h1 {
 	font-size: 36px;
 	margin-bottom: 0.5em;
-	font-weight:bold;
 }
 
 .main {
@@ -85,7 +84,7 @@ h2 {
 }
 
 body {
-	font-family: Book Antiqua, Palatino Linotype, Palatino, Serif;
+	font-family: Palatino Linotype, Palatino, Serif;
 }
 
 /* old blockquote 
