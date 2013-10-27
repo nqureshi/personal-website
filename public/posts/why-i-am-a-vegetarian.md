@@ -35,9 +35,11 @@ That seems ludicrous. What if, instead of a chicken, it were an infant baby? Let
 
 Eating meat seems to rely on some important distinction between humans and animals, such that eating animals is OK and eating humans is not. But what is that distinction? It can't be intelligence, because otherwise eating infant babies would be OK. 
 
-We care about things because they are sentient. Being partial to your own species <i>because it's your own species</i> isn't a valid argument, any more than being partial to your own race, sexual orientation, gender etc. 
+I think the obvious answer is that we don't want to hurt / kill things that feel pain / don't want to be killed. And just as society went from only valuing the preferences of certain classes of people, and ignoring the preferences of other classes of people (brown people, black people, gay people etc.), I think eventually we'll come to realize that there's no good reason to completely ignore the interests of animals. 
 
-There just doesn't seem to be a good reason to continue killing animals and eating them, let alone at the kind of mass scale that we are doing. I think most people just do it because they were raised to think that eating meat is OK. Eating meat is unnecessary, and eating dead animals to satisfy your cravings seems like a selfish thing to do. So if you can't think of a good reason to continue doing it (if you've been paying attention, 'I enjoy it' doesn't count), can I suggest you try stopping? It's not actually as hard as you think. 
+I think most people continue to do it because they were raised to think that eating meat is OK, i.e. it's the default position. It takes a special effort of will to change your default position, and why would you do so when it's inconvenient? And besides, meat is so tasty!
+
+If you've read the above, can't think of a good reason to continue doing it (if you've been paying attention, 'I enjoy it' doesn't count), can I suggest you try stopping? It's not actually as hard as you think. 
 
 <b>Further Reading</b>
 
