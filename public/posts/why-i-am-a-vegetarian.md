@@ -44,7 +44,5 @@ If you've read the above, can't think of a good reason to continue doing it (if 
 <b>Further Reading</b>
 
 - I highly recommend [Peter Singer's work](http://en.wikipedia.org/wiki/Animal_Liberation_(book)). All of the above is basically an informal statement of his philosophically rigorous case. 
-
 - A great exploration using the medium of short fiction is done by JM Coetzee in his Tanner Lecture ['The Lives of Animals'](http://tannerlectures.utah.edu/_documents/a-to-z/c/Coetzee99.pdf). 
-
 - Jonathan Safran Foer explores the broader questions nicely in his book [Eating Animals](http://en.wikipedia.org/wiki/Eating_Animals).
